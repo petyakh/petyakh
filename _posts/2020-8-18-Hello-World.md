@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 title: Воу-воу-воу!
 ---
 
