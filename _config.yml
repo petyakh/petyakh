@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: mixa
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: UCYoj8qnw7Y0buEUMr0RjRyA # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCYoj8qnw7Y0buEUMr0RjRyA # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
