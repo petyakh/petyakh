@@ -3,6 +3,7 @@ published: true
 layout: post
 excerpt_separator: <!--more-->
 title: Генератор кнопки "Додати в календар"
+comments: true
 ---
 Онлайн-сервіс для створення посилань типу "Додати в календар":
 * [для Гугл-календаря](https://jennamolby.com/tools/google-calendar-link-generator/)
